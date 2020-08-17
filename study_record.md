@@ -24,7 +24,9 @@ __go request:__
 
 *******  
 __go cache:__ 
-* __类似 redis __  
+* __freecache __  
   * 代码：https://github.com/coocood/freecache
 * __LRU__  
   * 代码：https://github.com/hashicorp/golang-lru
+* __bigcache__
+  * 代码：https://github.com/allegro/bigcache
