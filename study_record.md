@@ -21,3 +21,10 @@ __go delve:__
 *******  
 __go request:__ 
 * 代码：https://github.com/parnurzeal/gorequest
+
+*******  
+__go cache:__ 
+* __类似 redis __  
+  * 代码：https://github.com/coocood/freecache
+* __LRU__  
+  * 代码：https://github.com/hashicorp/golang-lru
