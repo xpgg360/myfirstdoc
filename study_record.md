@@ -30,3 +30,8 @@ __go cache:__
   * 代码：https://github.com/hashicorp/golang-lru
 * __bigcache__
   * 代码：https://github.com/allegro/bigcache
+  
+*******
+__go tool:__
+* __golangci__
+  * 代码：https://golangci-lint.run/usage/quick-start/
