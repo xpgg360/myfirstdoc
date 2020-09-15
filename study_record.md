@@ -34,4 +34,6 @@ __go cache:__
 *******
 __go tool:__
 * __golangci__
-  * 代码：https://golangci-lint.run/usage/quick-start/
+  * 文档地址：https://golangci-lint.run/usage/quick-start/
+* __night学习__
+  * 地址：https://github.com/talkgo/night
