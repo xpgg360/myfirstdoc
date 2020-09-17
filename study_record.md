@@ -4,6 +4,9 @@ go语言
 __规则引擎:__ 
 * bilibili开源：https://github.com/rencalo770/gengine  
 * 简单的一个: https://github.com/Knetic/govaluate 
+* jsonlogic: https://github.com/diegoholiveira/jsonlogic
+* jsonpath: github.com/oliveagle/jsonpath
+* json-iterator: github.com/json-iterator/go
 
 *******  
 __graphql:__  
