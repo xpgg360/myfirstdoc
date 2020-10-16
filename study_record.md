@@ -41,4 +41,6 @@ __go tool:__
 * __night学习__
   * 地址：https://github.com/talkgo/night
 * __JIT编译器__
-  * 地址：https://github.com/antlr/antlr4 [https://github.com/antlr/antlr4/tree/master/runtime/Go/antlr]
+  * git总地址：https://github.com/antlr/antlr4 
+  * go版本目录：https://github.com/antlr/antlr4/tree/master/runtime/Go/antlr
+  * 官网：https://www.antlr.org
