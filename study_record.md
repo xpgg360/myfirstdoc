@@ -44,3 +44,5 @@ __go tool:__
   * git总地址：https://github.com/antlr/antlr4 
   * go版本目录：https://github.com/antlr/antlr4/tree/master/runtime/Go/antlr
   * 官网：https://www.antlr.org
+  * 搞得好玩的例子：
+    ** wa语言：https://github.com/wa-lang/wa
