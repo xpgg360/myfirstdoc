@@ -34,6 +34,13 @@ __go cache:__
 * __bigcache__
   * 代码：https://github.com/allegro/bigcache
   
+*******  
+__mysql:__ 
+* __mysql proxy__
+  * git地址：https://github.com/flike/kingshard
+* __mysql sqlparser__
+  * git地址：github.com/xwb1989/sqlparser
+  
 *******
 __go tool:__
 * __golangci__
@@ -46,5 +53,4 @@ __go tool:__
   * 官网：https://www.antlr.org
   * 搞得好玩的例子：
     ** wa语言：https://github.com/wa-lang/wa
-* __mysql proxy__
-  * git地址：https://github.com/flike/kingshard
+   
