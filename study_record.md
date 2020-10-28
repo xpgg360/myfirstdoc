@@ -45,6 +45,8 @@ __mysql:__
 __机器学习:__
 * __tensorflow__
   * 文档地址：https://github.com/tensorflow/tensorflow/blob/master/tensorflow/core/framework/tensor.proto
+* __tensor__
+  * 文档地址；https://github.com/gorgonia/tensor
 
 *******
 __go tool:__
