@@ -42,6 +42,11 @@ __mysql:__
   * git地址：github.com/xwb1989/sqlparser
   
 *******
+__机器学习:__
+* __tensorflow__
+  * 文档地址：https://github.com/tensorflow/tensorflow/blob/master/tensorflow/core/framework/tensor.proto
+
+*******
 __go tool:__
 * __golangci__
   * 文档地址：https://golangci-lint.run/usage/quick-start/
@@ -53,4 +58,3 @@ __go tool:__
   * 官网：https://www.antlr.org
   * 搞得好玩的例子：
         --wa语言：https://github.com/wa-lang/wa
-   
