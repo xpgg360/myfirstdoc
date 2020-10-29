@@ -40,6 +40,13 @@ __mysql:__
   * git地址：https://github.com/flike/kingshard
 * __mysql sqlparser__
   * git地址：github.com/xwb1989/sqlparser
+
+*******  
+__JSON:__ 
+* __Json schema__
+  * gojsonschema地址：https://github.com/xeipuuv/gojsonschema
+  * jsonschema type：https://snowplowanalytics.com/blog/2015/02/12/redshift-jsonschema-types/
+  * json schema规范：http://json-schema.org
   
 *******
 __机器学习:__
