@@ -5,8 +5,6 @@ __规则引擎:__
 * bilibili开源：https://github.com/rencalo770/gengine  
 * 简单的一个: https://github.com/Knetic/govaluate 
 * jsonlogic: https://github.com/diegoholiveira/jsonlogic
-* jsonpath: https://github.com/oliveagle/jsonpath
-* json-iterator: https://github.com/json-iterator/go
 
 *******  
 __graphql:__  
@@ -47,6 +45,12 @@ __JSON:__
   * gojsonschema地址：https://github.com/xeipuuv/gojsonschema
   * jsonschema type：https://snowplowanalytics.com/blog/2015/02/12/redshift-jsonschema-types/
   * json schema规范：http://json-schema.org
+
+* __Json path__
+  * jsonpath: https://github.com/oliveagle/jsonpath
+  
+* __Json Marshal/UnMarshal__
+  * json-iterator: https://github.com/json-iterator/go
   
 *******
 __机器学习:__
