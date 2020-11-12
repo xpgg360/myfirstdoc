@@ -43,7 +43,12 @@ __mysql:__
   * git地址：https://github.com/flike/kingshard
 * __mysql sqlparser__
   * git地址：github.com/xwb1989/sqlparser
-
+  
+*******  
+__ES:__ 
+* __sql2DSL__
+  * git地址：https://github.com/NLPchina/elasticsearch-sql
+  
 *******  
 __JSON:__ 
 * __Json schema__
