@@ -12,13 +12,13 @@ __graphql:__
   * 代码：https://github.com/99designs/gqlgen  
     
 * __graphql-go/graphql 相关__  
-  * 代码：https://github.com/graphql-go/graphql  
-  * schema动态化pkg(typedefs可以配置化生成): https://www.apollographql.com/docs/graphql-tools/generate-schema
+  * 代码：https://github.com/graphql-go/graphql
   * 动态schema注入工具：https://github.com/bhoriuchi/graphql-go-tools  
   
 * __tool__
   * json2schema：https://walmartlabs.github.io/json-to-simple-graphql-schema/
   * 可视化编辑schema工具：https://graphqleditor.com/
+  * schema动态化pkg(typedefs可以配置化生成): https://www.apollographql.com/docs/graphql-tools/generate-schema
 
 *******  
 __go delve:__  
