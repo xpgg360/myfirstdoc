@@ -14,6 +14,9 @@ __graphql:__
 * __graphql-go/graphql 相关__  
   * 代码：https://github.com/graphql-go/graphql  
   * 动态schema注入工具：https://github.com/bhoriuchi/graphql-go-tools  
+  
+* __tool__
+  * json2schema：https://walmartlabs.github.io/json-to-simple-graphql-schema/
 
 *******  
 __go delve:__  
