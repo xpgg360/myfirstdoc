@@ -48,6 +48,7 @@ __mysql:__
 __ES:__ 
 * __sql2DSL__
   * git地址：https://github.com/NLPchina/elasticsearch-sql
+  * 文档：https://www.elastic.co/guide/en/elasticsearch/reference/current/sql-rest.html
   
 *******  
 __JSON:__ 
