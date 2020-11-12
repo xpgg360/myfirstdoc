@@ -13,7 +13,7 @@ __graphql:__
     
 * __graphql-go/graphql 相关__  
   * 代码：https://github.com/graphql-go/graphql  
-  * schema动态化pkg(typedefs可以配置化生成): https://www.apollographql.com/docs/graphql-tools/generate-schema；
+  * schema动态化pkg(typedefs可以配置化生成): https://www.apollographql.com/docs/graphql-tools/generate-schema
   * 动态schema注入工具：https://github.com/bhoriuchi/graphql-go-tools  
   
 * __tool__
