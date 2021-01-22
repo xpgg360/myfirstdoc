@@ -58,6 +58,7 @@ __JSON:__
   * json schema规范：http://json-schema.org
 
 * __Json path__
+  * gjson: https://github.com/tidwall/gjson
   * jsonpath: https://github.com/oliveagle/jsonpath
   
 * __Json Marshal/UnMarshal__
