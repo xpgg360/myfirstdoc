@@ -5,6 +5,7 @@ __规则引擎:__
 * bilibili开源：https://github.com/rencalo770/gengine  
 * 简单的一个: https://github.com/Knetic/govaluate 
 * jsonlogic: https://github.com/diegoholiveira/jsonlogic
+* 表达式引擎：https://github.com/antonmedv/expr
 
 *******  
 __graphql:__  
