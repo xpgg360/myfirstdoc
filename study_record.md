@@ -60,6 +60,7 @@ __JSON:__
 * __Json path__
   * gjson: https://github.com/tidwall/gjson
   * jsonpath: https://github.com/oliveagle/jsonpath
+  * k8s jsonpath: https://github.com/kubernetes/client-go/blob/master/util/jsonpath/jsonpath.go
   
 * __Json Marshal/UnMarshal__
   * json-iterator: https://github.com/json-iterator/go
