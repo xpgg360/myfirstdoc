@@ -87,3 +87,6 @@ __go tool:__
         --wa语言：https://github.com/wa-lang/wa
 * __feature process__
   * 地址：https://github.com/nikolaydubina/go-featureprocessing
+* __加密：vault__
+  * git总地址：https://github.com/hashicorp/vault
+  * 官网：https://www.vaultproject.io/docs/install
