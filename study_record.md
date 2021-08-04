@@ -74,6 +74,15 @@ __机器学习:__
   * 文档地址；https://github.com/gorgonia/tensor
 
 *******
+__特征工程:__
+* __feature process__
+  * 地址：https://github.com/nikolaydubina/go-featureprocessing
+* __feast特征__
+  * 地址：http://docs.feast.dev/
+* __MLRun__
+  * 地址：https://docs.mlrun.org/en/latest/feature-store/feature-store.html
+
+*******
 __go tool:__
 * __golangci__
   * 文档地址：https://golangci-lint.run/usage/quick-start/
@@ -85,8 +94,6 @@ __go tool:__
   * 官网：https://www.antlr.org
   * 搞得好玩的例子：
         --wa语言：https://github.com/wa-lang/wa
-* __feature process__
-  * 地址：https://github.com/nikolaydubina/go-featureprocessing
 * __加密：vault__
   * git总地址：https://github.com/hashicorp/vault
   * 官网：https://www.vaultproject.io/docs/install
