@@ -7,3 +7,8 @@ __版本号标准:__
 
 __免费的一个翻开了一个强:__ 
 * https://github.com/yanue/v2rayu/issues
+
+
+__开发的定律、理论、原则和模式合集:__
+* https://github.com/nusr/hacker-laws-zh
+
