@@ -12,4 +12,5 @@ __免费的一个翻开了一个强:__
 
 __开发的定律、理论、原则和模式合集:__
 * https://github.com/nusr/hacker-laws-zh
+* https://google.github.io/eng-practices/ google的cr标准
 
