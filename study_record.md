@@ -81,6 +81,8 @@ __特征工程:__
   * 地址：http://docs.feast.dev/
 * __MLRun__
   * 地址：https://docs.mlrun.org/en/latest/feature-store/feature-store.html
+* __gorgonia__
+  * 地址：https://github.com/gorgonia/gorgonia
 
 __模型工程：__
 * __mlflow__
