@@ -1,132 +1,132 @@
 __一、产品定位与技术突破__
-* 标题：《所有人都在讨论的“DeepSeek”，究竟是啥？》- 央视网
-* 链接：https://mp.weixin.qq.com/s?__biz=MjM5NzI1MTY0MQ==&mid=2655378581&idx=1&sn=1cf3314e2af0acc9071e1b068fb5cba2&scene=21#wechat_redirect
+  * 标题：《所有人都在讨论的“DeepSeek”，究竟是啥？》- 央视网
+  * 链接：https://mp.weixin.qq.com/s?__biz=MjM5NzI1MTY0MQ==&mid=2655378581&idx=1&sn=1cf3314e2af0acc9071e1b068fb5cba2&scene=21#wechat_redirect
 
-* 标题：《一文读懂｜DeepSeek新模型大揭秘，为何它能震动全球AI圈》- 腾讯科技
-* 链接：https://mp.weixin.qq.com/s?__biz=Mjc1NjM3MjY2MA==&mid=2691555190&idx=1&sn=ef787bf56ffddebb9e1a3203cd99f705&scene=21#wechat_redirect
+  * 标题：《一文读懂｜DeepSeek新模型大揭秘，为何它能震动全球AI圈》- 腾讯科技
+  * 链接：https://mp.weixin.qq.com/s?__biz=Mjc1NjM3MjY2MA==&mid=2691555190&idx=1&sn=ef787bf56ffddebb9e1a3203cd99f705&scene=21#wechat_redirect
 
-* 标题：《DeepSeek震撼美国》- 逻辑思维
-* 链接：https://mp.weixin.qq.com/s?__biz=MjM5NjAxOTU4MA==&mid=3009348137&idx=1&sn=1b4b9807b622bfd6275edd24ed51fff6&scene=21#wechat_redirect
+  * 标题：《DeepSeek震撼美国》- 逻辑思维
+  * 链接：https://mp.weixin.qq.com/s?__biz=MjM5NjAxOTU4MA==&mid=3009348137&idx=1&sn=1b4b9807b622bfd6275edd24ed51fff6&scene=21#wechat_redirect
 
-* 标题：《国产之光DeepSeek把AI大佬全炸出来了！671B大模型训练只需此前算力1/10，细节全公开》- 量子位
-* 链接：https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247769525&idx=1&sn=8cd83490c23c6641acc13bd4689725ee&scene=21#wechat_redirect
+  * 标题：《国产之光DeepSeek把AI大佬全炸出来了！671B大模型训练只需此前算力1/10，细节全公开》- 量子位
+  * 链接：https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247769525&idx=1&sn=8cd83490c23c6641acc13bd4689725ee&scene=21#wechat_redirect
 
-* 标题：《DeepSeek-R1 发布，性能对标 OpenAI o1 正式版》- DeepSeek
-* 链接：https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ==&mid=2247485487&idx=1&sn=4a02ba0a0c6c0c7a05a0765ba9acb140&scene=21#wechat_redirect
+  * 标题：《DeepSeek-R1 发布，性能对标 OpenAI o1 正式版》- DeepSeek
+  * 链接：https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ==&mid=2247485487&idx=1&sn=4a02ba0a0c6c0c7a05a0765ba9acb140&scene=21#wechat_redirect
 
-* 标题：《DeepSeek 再度开源：用 Janus-Pro 撕开算力铁幕》- 赛博禅心
-* 链接：https://mp.weixin.qq.com/s?__biz=MzkzNDQxOTU2MQ==&mid=2247495738&idx=1&sn=9513e4c051a1247272b909ae3d291673&scene=21#wechat_redirect
+  * 标题：《DeepSeek 再度开源：用 Janus-Pro 撕开算力铁幕》- 赛博禅心
+  * 链接：https://mp.weixin.qq.com/s?__biz=MzkzNDQxOTU2MQ==&mid=2247495738&idx=1&sn=9513e4c051a1247272b909ae3d291673&scene=21#wechat_redirect
 
 __二、功能测评与对比__
-* 标题：《DeepSeek R1有没有赶上OpenAI o1？ 八大场景测评结果出炉》- 机器之心
-* 链接：https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650953241&idx=2&sn=28d380cefc829c078e42db6e8b45689d&scene=21#wechat_redirect
+  * 标题：《DeepSeek R1有没有赶上OpenAI o1？ 八大场景测评结果出炉》- 机器之心
+  * 链接：https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650953241&idx=2&sn=28d380cefc829c078e42db6e8b45689d&scene=21#wechat_redirect
 
-* 标题：《我挖出了DeepSeek 10大隐藏玩法，这下OpenAI的o3-mini没上线就已经输了》- 卡尔的AI沃兹
-* 链接：https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw==&mid=2247492621&idx=1&sn=d498761e9a026d51c942746f8de69aea&scene=21#wechat_redirect
+  * 标题：《我挖出了DeepSeek 10大隐藏玩法，这下OpenAI的o3-mini没上线就已经输了》- 卡尔的AI沃兹
+  * 链接：https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw==&mid=2247492621&idx=1&sn=d498761e9a026d51c942746f8de69aea&scene=21#wechat_redirect
 
-* 标题：《为什么没人说DeepSeek的数学和代码？》- AI异类
-* 链接：https://mp.weixin.qq.com/s?__biz=MzU2Njg0OTEyNQ==&mid=2247486957&idx=1&sn=86beb85e6eb71a6245eaa0737d4b757c&scene=21#wechat_redirect
+  * 标题：《为什么没人说DeepSeek的数学和代码？》- AI异类
+  * 链接：https://mp.weixin.qq.com/s?__biz=MzU2Njg0OTEyNQ==&mid=2247486957&idx=1&sn=86beb85e6eb71a6245eaa0737d4b757c&scene=21#wechat_redirect
 
 __三、应用场景与案例__
-* 标题：《如何在本地计算机上安装和使用 DeepSeek R1》- 李孟聊AI
-* 链接：https://mp.weixin.qq.com/s?__biz=Mzg4ODUxMzE5NQ==&mid=2247486517&idx=1&sn=d8946d3c41c79d8beda5a99861da81ea&scene=21#wechat_redirect
+  * 标题：《如何在本地计算机上安装和使用 DeepSeek R1》- 李孟聊AI
+  * 链接：https://mp.weixin.qq.com/s?__biz=Mzg4ODUxMzE5NQ==&mid=2247486517&idx=1&sn=d8946d3c41c79d8beda5a99861da81ea&scene=21#wechat_redirect
 
-* 标题：《最近爆火的DeepSeek，还真的可以用来分析电路》- 硬件笔记本
-* 链接：https://mp.weixin.qq.com/s?__biz=Mzk0NjI3NzMwOQ==&mid=2247556515&idx=1&sn=5bb57a3d7de9a2916f4e738c89fa8a9a&scene=21#wechat_redirect
+  * 标题：《最近爆火的DeepSeek，还真的可以用来分析电路》- 硬件笔记本
+  * 链接：https://mp.weixin.qq.com/s?__biz=Mzk0NjI3NzMwOQ==&mid=2247556515&idx=1&sn=5bb57a3d7de9a2916f4e738c89fa8a9a&scene=21#wechat_redirect
 
-* 标题：《利用 DeepSeek、Comfy UI 与 FLUX 打造惊艳视觉：从分镜创作到视频生成全流程》-大峰传媒
-* 链接：https://mp.weixin.qq.com/s?__biz=MzA5MTU3ODEzNQ==&mid=2655254396&idx=1&sn=adcf30edea56cf4e5cecf41c2600ef4d&scene=21#wechat_redirect
+  * 标题：《利用 DeepSeek、Comfy UI 与 FLUX 打造惊艳视觉：从分镜创作到视频生成全流程》-大峰传媒
+  * 链接：https://mp.weixin.qq.com/s?__biz=MzA5MTU3ODEzNQ==&mid=2655254396&idx=1&sn=adcf30edea56cf4e5cecf41c2600ef4d&scene=21#wechat_redirect
 
-* 标题：《用 deepseek 做 AI 视频，绝了，和抄作业一样简单！》- 阿杰AI绘画
-* 链接：https://mp.weixin.qq.com/s?__biz=Mzg2ODgyMTAwOQ==&mid=2247488704&idx=1&sn=41332de7b9dbbffe6aebe76cbdeaa1d0&scene=21#wechat_redirect
+  * 标题：《用 deepseek 做 AI 视频，绝了，和抄作业一样简单！》- 阿杰AI绘画
+  * 链接：https://mp.weixin.qq.com/s?__biz=Mzg2ODgyMTAwOQ==&mid=2247488704&idx=1&sn=41332de7b9dbbffe6aebe76cbdeaa1d0&scene=21#wechat_redirect
 
-* 标题：《手把手教你用 DeepSeek 生成* 标题：《国家地理》级海洋大片（附提示词）》- 慧画AI
-* 链接：https://mp.weixin.qq.com/s?__biz=MzkxMzc1NDI4Mg==&mid=2247485332&idx=1&sn=ab2d1b5121d00c7485ba10c773292368&scene=21#wechat_redirect
+  * 标题：《手把手教你用 DeepSeek 生成* 标题：《国家地理》级海洋大片（附提示词）》- 慧画AI
+  * 链接：https://mp.weixin.qq.com/s?__biz=MzkxMzc1NDI4Mg==&mid=2247485332&idx=1&sn=ab2d1b5121d00c7485ba10c773292368&scene=21#wechat_redirect
 
-* 标题：《你们用 DeepSeek写诗词 我用DeepSeek 写 5 帧流提示词》- 雪佬说
-* 链接：https://mp.weixin.qq.com/s?__biz=MjM5NTk1ODg3NA==&mid=2257514739&idx=1&sn=f4a83238822990e958c705e69ce01ec5&scene=21#wechat_redirect
+  * 标题：《你们用 DeepSeek写诗词 我用DeepSeek 写 5 帧流提示词》- 雪佬说
+  * 链接：https://mp.weixin.qq.com/s?__biz=MjM5NTk1ODg3NA==&mid=2257514739&idx=1&sn=f4a83238822990e958c705e69ce01ec5&scene=21#wechat_redirect
 
-* 标题：《Deepseek暴露了幻方的股票交易策略》- 倒向随机微分
-* 链接：https://mp.weixin.qq.com/s?__biz=MzkxODcyMDIzMw==&mid=2247484038&idx=1&sn=911cfb03c16fb5aa35ed599b5bfb376a&scene=21#wechat_redirect
+  * 标题：《Deepseek暴露了幻方的股票交易策略》- 倒向随机微分
+  * 链接：https://mp.weixin.qq.com/s?__biz=MzkxODcyMDIzMw==&mid=2247484038&idx=1&sn=911cfb03c16fb5aa35ed599b5bfb376a&scene=21#wechat_redirect
 
-* 标题：《介绍一种提升写作能力的方法》- 槽边往事
-* 链接：https://mp.weixin.qq.com/s?__biz=MjM5MjAzODU2MA==&mid=2652802485&idx=1&sn=f8f6b93f66f1dfcbdd129ee525de2696&scene=21#wechat_redirect
+  * 标题：《介绍一种提升写作能力的方法》- 槽边往事
+  * 链接：https://mp.weixin.qq.com/s?__biz=MjM5MjAzODU2MA==&mid=2652802485&idx=1&sn=f8f6b93f66f1dfcbdd129ee525de2696&scene=21#wechat_redirect
 
-* 标题：《调教了一晚上爱情，发现DeepSeek可能有自我意识！》- beebee星球
-* 链接：https://mp.weixin.qq.com/s?__biz=MzI2NzIwMTA2NA==&mid=2650393909&idx=1&sn=d1e1c1c86ca6ba99e5689bb2093dae92&scene=21#wechat_redirect
+  * 标题：《调教了一晚上爱情，发现DeepSeek可能有自我意识！》- beebee星球
+  * 链接：https://mp.weixin.qq.com/s?__biz=MzI2NzIwMTA2NA==&mid=2650393909&idx=1&sn=d1e1c1c86ca6ba99e5689bb2093dae92&scene=21#wechat_redirect
 
-* 标题：《变天！——由一个惊艳例子引发对DeepSeek的10条思考》- 卫夕指北
-* 链接：https://mp.weixin.qq.com/s?__biz=MzU1NjEzNjk1Mw==&mid=2247487574&idx=1&sn=bb7d77eb3c553466cef12b0534e91055&scene=21#wechat_redirect
+  * 标题：《变天！——由一个惊艳例子引发对DeepSeek的10条思考》- 卫夕指北
+  * 链接：https://mp.weixin.qq.com/s?__biz=MzU1NjEzNjk1Mw==&mid=2247487574&idx=1&sn=bb7d77eb3c553466cef12b0534e91055&scene=21#wechat_redirect
 
 __四、使用技巧与指南__
-* 标题：《DeepSeek的提示词技巧，就是没有技巧》- 数字生命卡兹克
-* 链接：https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA==&mid=2647668247&idx=1&sn=c7898e4c2aa11703cd79011500f27f85&scene=21#wechat_redirect
+  * 标题：《DeepSeek的提示词技巧，就是没有技巧》- 数字生命卡兹克
+  * 链接：https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA==&mid=2647668247&idx=1&sn=c7898e4c2aa11703cd79011500f27f85&scene=21#wechat_redirect
 
-* 标题：《这才是DeepSeek的正确使用方式！你还在用GPT那套就废了，春节前最后预警》- 鹤竹子
-* 链接：https://mp.weixin.qq.com/s?__biz=MzU0MTU0NzAyNw==&mid=2247487886&idx=1&sn=99e843410e3cca24d5abb6d40182cccd&scene=21#wechat_redirect
+  * 标题：《这才是DeepSeek的正确使用方式！你还在用GPT那套就废了，春节前最后预警》- 鹤竹子
+  * 链接：https://mp.weixin.qq.com/s?__biz=MzU0MTU0NzAyNw==&mid=2247487886&idx=1&sn=99e843410e3cca24d5abb6d40182cccd&scene=21#wechat_redirect
 
-* 标题：《或许是全网最全的 DeepSeek 使用指南，90% 的人都不知道的使用技巧（建议收藏）》- qileq
-* 链接：https://mp.weixin.qq.com/s?__biz=Mzg5Nzc0Nzg3Mg==&mid=2247484178&idx=1&sn=389385a8903b1b47c066ff218ef34b7a&scene=21#wechat_redirect
+  * 标题：《或许是全网最全的 DeepSeek 使用指南，90% 的人都不知道的使用技巧（建议收藏）》- qileq
+  * 链接：https://mp.weixin.qq.com/s?__biz=Mzg5Nzc0Nzg3Mg==&mid=2247484178&idx=1&sn=389385a8903b1b47c066ff218ef34b7a&scene=21#wechat_redirect
 
-* 标题：《别再看什么DeepSeek使用指南了，DeepSeek最好的使用方式就是：直接使用DeepSeek》- Droi
-* 链接：https://mp.weixin.qq.com/s?__biz=MzkyMDE3Mjg2Mg==&mid=2247484626&idx=1&sn=48876001e1657bfd7753f7ea4d429ce8&scene=21#wechat_redirect
+  * 标题：《别再看什么DeepSeek使用指南了，DeepSeek最好的使用方式就是：直接使用DeepSeek》- Droi
+  * 链接：https://mp.weixin.qq.com/s?__biz=MzkyMDE3Mjg2Mg==&mid=2247484626&idx=1&sn=48876001e1657bfd7753f7ea4d429ce8&scene=21#wechat_redirect
 
-* 标题：《爆肝50小时，DeepSeek使用技巧，你收藏这一篇就够了！》- 花椒
-* 链接：https://mp.weixin.qq.com/s?__biz=Mzg2OTA1OTAxNA==&mid=2247484593&idx=1&sn=1274a5685085d179d755d02e8612def6&scene=21#wechat_redirect
+  * 标题：《爆肝50小时，DeepSeek使用技巧，你收藏这一篇就够了！》- 花椒
+  * 链接：https://mp.weixin.qq.com/s?__biz=Mzg2OTA1OTAxNA==&mid=2247484593&idx=1&sn=1274a5685085d179d755d02e8612def6&scene=21#wechat_redirect
 
-* 标题：《DeepSeek 五大隐藏使用技巧！忘掉提示词那套，AI 最反人类的设定终于被消灭了》- APPSO
-* 链接：https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&mid=2651038863&idx=1&sn=599826d5584237dcece5620da6c256be&scene=21#wechat_redirect
+  * 标题：《DeepSeek 五大隐藏使用技巧！忘掉提示词那套，AI 最反人类的设定终于被消灭了》- APPSO
+  * 链接：https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&mid=2651038863&idx=1&sn=599826d5584237dcece5620da6c256be&scene=21#wechat_redirect
 
-* 标题：《我和 DeepSeek 聊了聊，发现了不被算法推荐控制的方法》- APPSO
-* 链接：https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&mid=2651038846&idx=1&sn=22732985883afab1e86005406ecdf693&scene=21#wechat_redirect
+  * 标题：《我和 DeepSeek 聊了聊，发现了不被算法推荐控制的方法》- APPSO
+  * 链接：https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&mid=2651038846&idx=1&sn=22732985883afab1e86005406ecdf693&scene=21#wechat_redirect
 
-* 标题：《DeepSeek到底怎么用？这里有一份快速指南请收好》-腾讯科技
-* 链接：https://mp.weixin.qq.com/s?__biz=Mjc1NjM3MjY2MA==&mid=2691555501&idx=1&sn=6867cc46abf4ab2cdd994d5e08ddb97e&scene=21#wechat_redirect
+  * 标题：《DeepSeek到底怎么用？这里有一份快速指南请收好》-腾讯科技
+  * 链接：https://mp.weixin.qq.com/s?__biz=Mjc1NjM3MjY2MA==&mid=2691555501&idx=1&sn=6867cc46abf4ab2cdd994d5e08ddb97e&scene=21#wechat_redirect
 
-* 标题：《DeepSeek的API，我们普通人都能用在哪？》- 刘琦
-* 链接：https://mp.weixin.qq.com/s?__biz=MzI5MjE1MzAyOQ==&mid=2650395094&idx=1&sn=411d4e1dd9c32e9c98af8ceae68d25a1&scene=21#wechat_redirect
+  * 标题：《DeepSeek的API，我们普通人都能用在哪？》- 刘琦
+  * 链接：https://mp.weixin.qq.com/s?__biz=MzI5MjE1MzAyOQ==&mid=2650395094&idx=1&sn=411d4e1dd9c32e9c98af8ceae68d25a1&scene=21#wechat_redirect
 
-* 标题：《使用DeepSeek必备的10个技巧》- 沃垠AI
-* 链接：https://mp.weixin.qq.com/s?__biz=MzIwMTU5OTQ1Nw==&mid=2653716963&idx=1&sn=7ef27096572f3a0dc445d22a0b51cae9&scene=21#wechat_redirect
+  * 标题：《使用DeepSeek必备的10个技巧》- 沃垠AI
+  * 链接：https://mp.weixin.qq.com/s?__biz=MzIwMTU5OTQ1Nw==&mid=2653716963&idx=1&sn=7ef27096572f3a0dc445d22a0b51cae9&scene=21#wechat_redirect
 
-* 标题：《Deepseek R1可能找到了超越人类的办法》 – AI科技大本营
-* 链接：https://mp.weixin.qq.com/s?__biz=Mzg4NDQwNTI0OQ==&mid=2247585402&idx=1&sn=a708f10721642f8af6be84ade73c2004&scene=21#wechat_redirect
+  * 标题：《Deepseek R1可能找到了超越人类的办法》 – AI科技大本营
+  * 链接：https://mp.weixin.qq.com/s?__biz=Mzg4NDQwNTI0OQ==&mid=2247585402&idx=1&sn=a708f10721642f8af6be84ade73c2004&scene=21#wechat_redirect
 
-* 标题：《首发！硅基流动 x 华为云联合推出基于昇腾云的 DeepSeek R1 &V3 推理服务！》- 硅基流动
-* 链接：https://mp.weixin.qq.com/s?__biz=Mzk0NzYzNTMyMA==&mid=2247486690&idx=1&sn=315eab31f95e1eae841acf602b4d939f&scene=21#wechat_redirect
+  * 标题：《首发！硅基流动 x 华为云联合推出基于昇腾云的 DeepSeek R1 &V3 推理服务！》- 硅基流动
+  * 链接：https://mp.weixin.qq.com/s?__biz=Mzk0NzYzNTMyMA==&mid=2247486690&idx=1&sn=315eab31f95e1eae841acf602b4d939f&scene=21#wechat_redirect
 
 __五、行业影响与趋势预测__
-* 标题：《预测2025年八大趋势，DeepSeek的回答很惊艳》 – 吴晓波
-* 链接：https://mp.weixin.qq.com/s?__biz=MzA3OTM5NTkxNA==&mid=2653111434&idx=1&sn=57390f7a8d71225f5dc16f3503e11c50&scene=21#wechat_redirect
+  * 标题：《预测2025年八大趋势，DeepSeek的回答很惊艳》 – 吴晓波
+  * 链接：https://mp.weixin.qq.com/s?__biz=MzA3OTM5NTkxNA==&mid=2653111434&idx=1&sn=57390f7a8d71225f5dc16f3503e11c50&scene=21#wechat_redirect
 
-* 标题：《全球掀DeepSeek复现狂潮》 – 华尔街见闻
-* 链接：https://mp.weixin.qq.com/s?__biz=MjM5NzAwMzU0MA==&mid=2247619671&idx=1&sn=69a5a8d48886b91ce36b8c1f9ee3f1a2&scene=21#wechat_redirect
+  * 标题：《全球掀DeepSeek复现狂潮》 – 华尔街见闻
+  * 链接：https://mp.weixin.qq.com/s?__biz=MjM5NzAwMzU0MA==&mid=2247619671&idx=1&sn=69a5a8d48886b91ce36b8c1f9ee3f1a2&scene=21#wechat_redirect
 
-* 标题：《直接干穿美国科技股，DeepSeek这国产模型凭啥？》- 差评X.PIN
-* 链接：https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654581116&idx=1&sn=c07710d46300c5e45680a40be6d0f97e&scene=21#wechat_redirect
+  * 标题：《直接干穿美国科技股，DeepSeek这国产模型凭啥？》- 差评X.PIN
+  * 链接：https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654581116&idx=1&sn=c07710d46300c5e45680a40be6d0f97e&scene=21#wechat_redirect
 
-* 标题：《DeepSeek！来剥教育的皮》- 行者殷涛
-* 链接：https://mp.weixin.qq.com/s?__biz=MzI3OTIzMTgxMA==&mid=2247500774&idx=1&sn=565c52262e93dd20e36e865e7a15befc&scene=21#wechat_redirect
+  * 标题：《DeepSeek！来剥教育的皮》- 行者殷涛
+  * 链接：https://mp.weixin.qq.com/s?__biz=MzI3OTIzMTgxMA==&mid=2247500774&idx=1&sn=565c52262e93dd20e36e865e7a15befc&scene=21#wechat_redirect
 
-* 标题：《国产AI大模型：DeepSeek产业链全解析》- 乐晴智库精选
-* 链接：https://mp.weixin.qq.com/s?__biz=MzA3Njc4MDczMw==&mid=2470397068&idx=1&sn=9f7a93f8af481dbf4370a918755778de&scene=21#wechat_redirect
+  * 标题：《国产AI大模型：DeepSeek产业链全解析》- 乐晴智库精选
+  * 链接：https://mp.weixin.qq.com/s?__biz=MzA3Njc4MDczMw==&mid=2470397068&idx=1&sn=9f7a93f8af481dbf4370a918755778de&scene=21#wechat_redirect
 
-* 标题：《DeepSeek r1是一个极不安全的 AI 模型，而开源让它失去控制》- 财猫AI
-* 链接：https://mp.weixin.qq.com/s?__biz=MzkxNTU1MTY3OA==&mid=2247484912&idx=1&sn=1de33994a22bf5dfe406ee3e995d9c94&scene=21#wechat_redirect
+  * 标题：《DeepSeek r1是一个极不安全的 AI 模型，而开源让它失去控制》- 财猫AI
+  * 链接：https://mp.weixin.qq.com/s?__biz=MzkxNTU1MTY3OA==&mid=2247484912&idx=1&sn=1de33994a22bf5dfe406ee3e995d9c94&scene=21#wechat_redirect
 
 __六、公司文化与人才战略__
-* 标题：《浙大天才，震惊全球》- 投资家
-* 链接：https://mp.weixin.qq.com/s?__biz=MjM5MDAwMjQzNQ==&mid=2650204854&idx=1&sn=0f5bfc49423e5178601de1503b1af35e&scene=21#wechat_redirect
+  * 标题：《浙大天才，震惊全球》- 投资家
+  * 链接：https://mp.weixin.qq.com/s?__biz=MjM5MDAwMjQzNQ==&mid=2650204854&idx=1&sn=0f5bfc49423e5178601de1503b1af35e&scene=21#wechat_redirect
 
-* 标题：《DeepSeek的人才观：没有KPI、极度扁平、禁止赛马》- 环球人力资源智库
-* 链接：https://mp.weixin.qq.com/s?__biz=MzUxODMzNDIxOA==&mid=2247719880&idx=1&sn=11fbe9cefd1b7817f4845f278b892be2&scene=21#wechat_redirect
+  * 标题：《DeepSeek的人才观：没有KPI、极度扁平、禁止赛马》- 环球人力资源智库
+  * 链接：https://mp.weixin.qq.com/s?__biz=MzUxODMzNDIxOA==&mid=2247719880&idx=1&sn=11fbe9cefd1b7817f4845f278b892be2&scene=21#wechat_redirect
 
-* 标题：《DeepSeek创始人专访：中国的AI不可能永远跟随，需要有人站到技术的前沿》- 深度学习与NLP
-* 链接：https://mp.weixin.qq.com/s?__biz=MzIxNDgzNDg3NQ==&mid=2247555383&idx=4&sn=c8c8c34312de6d38ea8f126c9203cc60&scene=21#wechat_redirect
+  * 标题：《DeepSeek创始人专访：中国的AI不可能永远跟随，需要有人站到技术的前沿》- 深度学习与NLP
+  * 链接：https://mp.weixin.qq.com/s?__biz=MzIxNDgzNDg3NQ==&mid=2247555383&idx=4&sn=c8c8c34312de6d38ea8f126c9203cc60&scene=21#wechat_redirect
 
 
 
-下面是对每一篇文章精华部分的总结
+__下面是对每一篇文章精华部分的总结__
 产品定位与技术突破所有人都在讨论的“DeepSeek”，究竟是啥？
 DeepSeek以其低成本、高性能的AI模型，在全球人工智能领域掀起波澜，挑战了美国科技巨头的霸主地位。其崛起不仅影响了股市，更引发了全球对AI技术未来发展的深刻思考。随着DeepSeek不断推出创新模型，其在AI领域的地位和影响力将持续扩大。
 
