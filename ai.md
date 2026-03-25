@@ -14,3 +14,9 @@ __AIcode工具：__
 * __OpenCode__
 * __Cursor__
 *******
+
+*******
+__AIcode材料：__
+* __SKills__
+  * skillsmp：https://skillsmp.com/zh/categories/automation-tools
+*******
